@@ -7,3 +7,5 @@
 4. git log / git log --oneline
 
 5. git push [rep_link] [branch_name]
+
+6,
